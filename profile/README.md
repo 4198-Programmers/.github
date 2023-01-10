@@ -1,6 +1,12 @@
 ## Hi there 
 
-This README is going to be a work in progress
+This is the github official org for team 4198 <br>
+you can find our website [here](https://www.team4198.org/)
+
+### public scouting related repos
+[match scouting](https://github.com/4198-Programmers/MeanScout_4198) <br>
+[match scouting api](https://github.com/4198-Programmers/meanscout-api-rust) <br>
+[pit scouting](https://github.com/4198-Programmers/VileScout) <br>
 
 <!--
 
