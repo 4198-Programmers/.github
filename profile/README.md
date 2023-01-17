@@ -1,12 +1,14 @@
 ## Hi there 
 
-This is the github official org for team 4198 <br>
-you can find our website [here](https://www.team4198.org/)
+This is the official Github org for Team 4198 <br>
+You can find our website [here](https://www.team4198.org/)
 
-### public scouting related repos
-[match scouting](https://github.com/4198-Programmers/MeanScout_4198) <br>
-[match scouting api](https://github.com/4198-Programmers/meanscout-api-rust) <br>
-[pit scouting](https://github.com/4198-Programmers/VileScout) <br>
+Sadly, The robot code is not public at the moment.
+
+### Public Scouting Related Repos
+[MatchSscouting](https://github.com/4198-Programmers/MeanScout_4198) <br>
+[Match Scouting api](https://github.com/4198-Programmers/meanscout-api-rust) <br>
+[Pit Scouting](https://github.com/4198-Programmers/VileScout) <br>
 
 <!--
 
