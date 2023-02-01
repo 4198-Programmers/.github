@@ -1,4 +1,4 @@
-## Hi there 
+# Waconia RoboCats 
 <body>
 <p>
  <a href="https://www.team4198.org" alt="Contributors">
@@ -8,15 +8,22 @@
 <!-- <img source="https://img.shields.io/badge/Website-Here-purple?style=for-the-badge" /> -->
     
 </p>
-This is the official Github org for Team 4198 <br>
+
+## This is the official Github for Team 4198
 <!-- You can find our website [here](https://www.team4198.org/) -->
 
-Sadly, The robot code is not public at the moment.
+### Sadly, The robot code is not public at the moment.
 
-### Public Scouting Related Repos
-[Match Scouting](https://github.com/4198-Programmers/MeanScout_4198) <br>
-[Match Scouting api](https://github.com/4198-Programmers/meanscout-api-rust) <br>
-[Pit Scouting](https://github.com/4198-Programmers/VileScout) <br>
+## Public Scouting Related Repos
+
+<p>
+<a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
+        <img src="https://img.shields.io/badge/Meanscout-Repo-7289da?style=for-the-badge" /></a>
+<a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
+        <img src="https://img.shields.io/badge/Meanscout Api-Repo-7289da?style=for-the-badge" /></a>
+<a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
+        <img src="https://img.shields.io/badge/Vilescout-Repo-7289da?style=for-the-badge" /></a>
+</p>
 
   
 </body>
