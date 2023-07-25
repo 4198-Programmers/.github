@@ -12,9 +12,9 @@
 ## This is the official Github for Team 4198
 <!-- You can find our website [here](https://www.team4198.org/) -->
 
-## 2023 Bot Code
+## Bot Code
 
-<a href="https://github.com/4198-Programmers/Charged-Up-2023" alt="Bot Code">
+<a href="https://github.com/4198-Programmers/Charged-Up-2023" alt="2023 Bot Code">
         <img src="https://img.shields.io/badge/Bot Code-Repo-7289da?style=for-the-badge" /></a>
         
 ## Public Scouting Related Repos
