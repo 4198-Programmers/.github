@@ -15,7 +15,7 @@
 ## Bot Code
 
 <a href="https://github.com/4198-Programmers/Charged-Up-2023" alt="2023 Bot Code">
-        <img src="https://img.shields.io/badge/Bot Code-Repo-7289da?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/2023 Bot Code-Repo-7289da?style=for-the-badge" /></a>
         
 ## Public Scouting Related Repos
 
