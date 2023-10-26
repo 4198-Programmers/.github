@@ -15,16 +15,16 @@
 ## Bot Code
 
 <a href="https://github.com/4198-Programmers/Charged-Up-2023" alt="2023 Bot Code">
-        <img src="https://img.shields.io/badge/2023 Bot Code-Repo-7289da?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/2023 Bot Code-Sam-7289da?style=for-the-badge" /></a>
         
 ## Public Scouting Related Repos
 
 <p>
 <a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
         <img src="https://img.shields.io/badge/Meanscout-Repo-7289da?style=for-the-badge" /></a>
-<a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
+<a href="https://github.com/4198-Programmers/meanscout-api" alt="Contributors">
         <img src="https://img.shields.io/badge/Meanscout Api-Repo-7289da?style=for-the-badge" /></a>
-<a href="https://github.com/4198-Programmers/MeanScout_4198" alt="Contributors">
+<a href="https://github.com/4198-Programmers/VileScout" alt="Contributors">
         <img src="https://img.shields.io/badge/Vilescout-Repo-7289da?style=for-the-badge" /></a>
 </p>
 
